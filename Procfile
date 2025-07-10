@@ -1,1 +1,1 @@
-web: python main.py
+web: python TgChecker1000_bot.py
